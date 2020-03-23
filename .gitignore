@@ -39,5 +39,8 @@ vignettes/*.pdf
 .Renviron
 .Rproj.user
 
+# MAC OS folder files
+.DS_Store
+
 # big data files
 /data/LSSusceptibility_v5.csv
