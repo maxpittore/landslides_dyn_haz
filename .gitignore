@@ -43,4 +43,5 @@ vignettes/*.pdf
 .DS_Store
 
 # big data files
-/data/LSSusceptibility_v5.csv
+data/LSSusceptibility_v5.csv
+data/LSSusceptibility_Dates_v2.csv
