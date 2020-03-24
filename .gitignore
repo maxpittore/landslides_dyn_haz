@@ -42,6 +42,11 @@ vignettes/*.pdf
 # MAC OS folder files
 .DS_Store
 
+# process files
+process/
+
 # big data files
 data/LSSusceptibility_v5.csv
 data/LSSusceptibility_Dates_v2.csv
+data/HavenithLSData.csv
+data/RobertLSData.csv
